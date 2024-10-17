@@ -1,52 +1,25 @@
----
-title: 'Single-Page CV'
-description: 'Create a single-page HTML CV to showcase your career history'
-isNew: false
-sort: 1
-difficulty: 'beginner'
-nature: 'HTML'
-skills:
-  - 'HTML'
-  - 'Semantic HTML'
-  - 'Layout'
-  - 'SEO'
-seo:
-  title: 'Single-Page HTML CV Project'
-  description: 'Create a simple single-page HTML CV that displays your education, skills, and career history.'
-  keywords:
-    - 'html cv'
-    - 'single-page cv'
-    - 'html resume'
-roadmapIds:
-  - 'frontend'
----
-
 # Single Page HTML CV Project
 
-> The goal of this project is to teach you how to create a structured, single-page CV using only HTML. You will focus on laying out your education, skills, and career history in a clean, semantic manner. Styling will be addressed in a later project.
+This is Andrew Weisbeck's submission for the [Roadmap.sh Frontend Projects Single Page CV Project](https://roadmap.sh/projects/single-page-cv).
 
-In this project, you are required to create a single-page CV (Curriculum Vitae) using only HTML. Your webpage should look like the following image:
+## Roadmap.sh Profile
 
-![Single-Page HTML CV](https://assets.roadmap.sh/guest/resume-template-zyl70.png)
+Check out my Roadmap.sh profile to see my progress:
+[Andrew's Roadmap.sh Profile](https://roadmap.sh/u/geauxweisbeck4)
 
-Key requirements for this project:
+## Information
 
-- **Semantic HTML**: Use appropriate HTML tags to structure your CV.
-- **SEO Meta Tags**: Include essential meta tags for SEO.
-- **Open Graph (OG) Tags**: Add OG tags for better social media sharing.
-- **Favicon**: Add a favicon for your CV page.
+- Title: Andrew Weisbeck's CV
+- Deployed Site Link: https://andrewweisbeckcv.netlify.app/
+- Project Link: https://roadmap.sh/projects/single-page-cv
+- Roadmap: Frontend Roadmap
 
-The structure of your CV should be easily understandable and ready for styling in a future project.
+## To Use
 
-### Submission Checklist:
+To use this project, just simply git clone this repository and then serve up the index.html file to get the CV page.
 
-- Semantically correct HTML structure.
-- Single-page layout with sections for education, skills, and career history.
-- SEO meta tags in the head section.
-- OG tags for better social media sharing.
-- A favicon linked in the head section.
-
-<hr />
-
-By completing this project, you'll gain a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare your webpage for future styling. This foundation will enable you to move on to styling the CV using CSS in subsequent projects.
+```
+git clone https://github.com/GeauxWeisbeck4/single-page-html-cv-project
+cd single-page-html-cv-project
+```
 
